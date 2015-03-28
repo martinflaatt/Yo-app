@@ -1,0 +1,11 @@
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\bin\Debug\yo_flaatt.exe.config
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\bin\Debug\yo_flaatt.exe
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\bin\Debug\yo_flaatt.pdb
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\bin\Debug\yo_flaatt.xml
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\obj\Debug\WindowsApplication1.Yo.resources
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\obj\Debug\Yo_app.vbproj.GenerateResource.Cache
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\obj\Debug\yo_flaatt.exe
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\obj\Debug\yo_flaatt.xml
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\obj\Debug\yo_flaatt.pdb
+C:\Users\Martin\Google Drive\vb\Projects\yo_flaatt\yo_flaatt\bin\Debug\Yo_app.exe.config
