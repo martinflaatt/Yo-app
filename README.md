@@ -1,2 +1,2 @@
 # Yo-app
-Add your token form  Yo api account
+Add your token form  Yo API account
